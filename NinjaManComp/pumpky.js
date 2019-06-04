@@ -1,4 +1,4 @@
-var pumpky = {//reds location
+var pumpky = {//pumpky location
 		x: enemyStart(),
 		y: enemyStart()
 	}
@@ -52,8 +52,8 @@ function bluMov(){
 }
 
 
-function pumpkyLog(){//reds logic
-	console.log('red logic')
+function pumpkyLog(){//pumpky logic
+	console.log('pumpky logic')
 
 		idkMovPumpky();
 		drawPumpky();
